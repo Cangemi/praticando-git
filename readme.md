@@ -2,8 +2,8 @@
 
 - Desemvolvimento das telas:
 
-- [] tela iniciaç - main
+- [ ] tela inicial - main
 
-- [] tela login - feat/tela-login
+- [ ] tela login - feat/tela-login
 
-- [] tela cadastro - feat/tela-cadastro
+- [ ] tela cadastro - feat/tela-cadastro
